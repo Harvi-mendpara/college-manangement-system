@@ -18,7 +18,7 @@ const Studentpro = () => {
   // console.log("result");
   return (
     <>
-    hiii
+   hello
       {/* {
         student?.map((item) => (
         <div
