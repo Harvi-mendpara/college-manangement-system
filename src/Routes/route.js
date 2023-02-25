@@ -85,7 +85,7 @@ export const faculty = [
 
 export const Student=[
     {
-        path: "/studashboard",
+        path: "/StuDashBoard",
         name: "student Dashboard",
         icon: <RiDashboardFill  />,
         element:<StuDashBoard/>
