@@ -98,7 +98,7 @@ const Attandance = () => {
             }}
           >
             <h5 className="attno">Number</h5>
-            <p className="card-text">name</p>
+            <p className="card-text">101</p>
           </button>
         </div>
       </div>
