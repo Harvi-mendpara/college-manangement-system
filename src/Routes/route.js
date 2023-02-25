@@ -21,7 +21,7 @@ import Payfee from "../Pages/Student/Fees/Payfee";
 import StuFees from "../Pages/Student/Fees/StuFees";
 import Subfacnotice from "../Pages/faculty/Notice/Subfacnotice";
 import Subnotice from "../Pages/faculty/subnotice/Subnotice";
-import Password from "../Pages/Student/password change/Password";
+
 import Studentlist from "../Pages/faculty/student list/Studentlist";
 
 

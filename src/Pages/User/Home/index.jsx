@@ -46,7 +46,7 @@ const UserDashboard = () => {
         <div className="contant">
           <h1 className='index-contant'>Welcome to our collage</h1>
           <div className="harvi">
-            <div className="btn-1 c1">GET STARTED</div>
+            <div className="btn-1 c1"> </div>
           </div>
         </div>
     
