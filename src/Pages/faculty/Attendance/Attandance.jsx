@@ -97,7 +97,7 @@ const Attandance = () => {
               borderRadius: "7px",
             }}
           >
-            <h5 className="attno">Number</h5>
+            <h5 className="attno">no</h5>
             <p className="card-text">101</p>
           </button>
         </div>
