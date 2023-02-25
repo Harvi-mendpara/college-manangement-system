@@ -22,7 +22,8 @@ const Attandance = () => {
                   textAlign: "center",
                 }}
               >
-                Student attandance{" "}
+                Student attandance
+                {" "}
               </div>
               <div className="card-body d-flex">
                 <div className="col-md-3">
